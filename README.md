@@ -1,6 +1,5 @@
-## Hi there, I'm najim el guennouni  👋
-
-### i'm software developer!!
+# Hi there, I'm najim el guennouni  👋
+ i'm software developer!!
 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning everything 🤣
