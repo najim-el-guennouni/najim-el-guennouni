@@ -1,7 +1,7 @@
 ### Hi there, I'm najim el guennouni  👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/guennouni_najim)
+(https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/guennouni_najim)
 
 ## i'm software developer!!
 
