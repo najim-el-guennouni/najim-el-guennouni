@@ -7,7 +7,7 @@ i'm software developer!!
 - ⚡ Fun fact: I love to draw and go gym
 - 📫You can find me email: najimelguennouni@gmail.com & linkedin: https://www.linkedin.com/in/najim-el-guennouni-437183177/
 
-i'm from Morocco, living in larache and currently studying at SUPMTI Rabar 
+i'm from Morocco, living in larache and currently studying at SUPMTI Rabat
 
 <!---
 najim-el-guennouni/najim-el-guennouni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
