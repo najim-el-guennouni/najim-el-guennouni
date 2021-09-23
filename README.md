@@ -1,6 +1,6 @@
 ### Hi there 👋, Najim
 #### I am software developer
-![I am software developer](https://www.linkedin.com/in/najim-el-guennouni-437183177/)
+(https://www.linkedin.com/in/najim-el-guennouni-437183177/)
 
 I'm Najim from morocco, and im software developer . I really enjoy learning languages and frameworks like js and React , as well as work in PHP.
 
