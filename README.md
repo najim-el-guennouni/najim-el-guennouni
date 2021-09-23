@@ -1,10 +1,6 @@
-# Hi there, I'm najim el guennouni  👋
-i'm software developer!!
-
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and go gym
+#  najim el guennouni 
+Najim El Guennouni
+I'm Najim from Australia, and i'm software developer . I really enjoy learning languages and frameworks like js and React , as well as work in PHP. 
 - 📫You can find me email: najimelguennouni@gmail.com & linkedin: https://www.linkedin.com/in/najim-el-guennouni-437183177/
 
 i'm from Morocco, living in larache and currently studying at SUPMTI Rabat
