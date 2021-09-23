@@ -1,8 +1,16 @@
-# Najim El Guennouni
-I'm Najim from morocco, and im software developer . I really enjoy learning languages and frameworks like js and React , as well as work in PHP.
-- 📫You can find me email: najimelguennouni@gmail.com & linkedin: https://www.linkedin.com/in/najim-el-guennouni-437183177/
+### Hi there 👋, Najim
+#### I am software developer
+![I am software developer](https://www.linkedin.com/in/najim-el-guennouni-437183177/)
 
-i'm from Morocco, living in larache and currently studying at SUPMTI Rabat
+I'm Najim from morocco, and im software developer . I really enjoy learning languages and frameworks like js and React , as well as work in PHP.
+
+Skills: PHP/ JS / HTML / CSS
+
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Najim)](https://github.com/anuraghazra/github-readme-stats)
 
 
