@@ -44,7 +44,7 @@ I'm Najim from morocco, and im software developer . I really enjoy learning lang
 <br/>
 <br/>
 
-<a href="https://github.com/najim-el-guennouni/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=najim-el-guennouni&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
