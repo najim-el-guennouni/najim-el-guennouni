@@ -5,9 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
-Hi There, I’m Najim And I Am Front-End Web Developer.  I’m Working As Web Developer.I Have Developed Many Website And Also Provided My Services To College Students By Getting Their Projects Ready ASAP As A Freelancer I Have Been Part Of Some Very Good Web Design Projects. I Have Done My Graduation In Computer Science.
+Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Working As Web Developer.I Have Developed Many Website And Also Provided My Services To College Students  I Have Been Part Of Some Very Good Web Design Projects. I Have Done My Graduation In Computer Science.
 
-I'm Also Learning Back-End Development And Looking Forward To Be A Full Stack Web Developer. !
 
 - 📫 How to reach me **Najimelguennouni@gmail.com**
 
