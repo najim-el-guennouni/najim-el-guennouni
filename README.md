@@ -63,7 +63,7 @@ Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Workin
 
 <a href = "https://www.linkedin.com/in/najim-el-guennouni-437183177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/guennouni_najim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/g_najiim/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/najim_el_guennounii/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
