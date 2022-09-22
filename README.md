@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Najim</h1>
-<p align="center">I am software developer</p>
+<h3 align="center">I am software developer</h3>
 
 ## 🙋‍♂️ About Me
 
