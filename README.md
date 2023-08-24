@@ -1,17 +1,26 @@
-<h1 align="center">Hi, I'm Najim</h1>
-<h3 align="center">Passionate Software Developer</h3>
+<!-- Header -->
+<p align="center">
+    <img src="https://media.giphy.com/media/3og0IPxMM0erATueOs/giphy.gif" alt="Coding Gif" width="350"/>
+</p>
 
-## 🙋‍♂️ About Me
+<h1 align="center">Hey there, I'm Najim! 🚀</h1>
+<h3 align="center">Passionate Software Craftsman</h3>
 
-Hello there! I'm Najim, a dedicated full-stack web developer. Crafting websites has been my passion, and I've lent my expertise to both clients and college students. My journey has been dotted with remarkable web design projects. I hold a degree in Computer Science, fueling my desire to create innovative solutions.
+<!-- About Me -->
+<p align="center">
+    <em>Turning Coffee into Code and Ideas into Reality</em>
+</p>
 
-- 📫 Contact: [Najimelguennouni@gmail.com](mailto:Najimelguennouni@gmail.com)
+<!-- Contact -->
+<p align="center">
+    <a href="mailto:Najimelguennouni@gmail.com">
+        <img src="https://img.shields8.io/badge/💌%20-Get%20in%20touch!-brightgreen"/>
+    </a>
+</p>
 
-- ⚡ Fun Fact: I'm a gamer and a gym enthusiast.
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools I Weave Magic With 🛠️</h3>
+<p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
@@ -24,16 +33,23 @@ Hello there! I'm Najim, a dedicated full-stack web developer. Crafting websites 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
 </p>
 
+<!-- Stats -->
 <p align="center">
     <a href="https://github.com/najim-el-guennouni/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=najim-el-guennouni&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Streak Stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=najim-el-guennouni&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-## Connect with me:
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/najim-el-guennouni-437183177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/guennouni_najim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="https://www.instagram.com/najim_el_guennouni/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- Connect with Me -->
+<h3 align="center">Let's Connect 🤝</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/najim-el-guennouni-437183177/">
+        <img src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>
+    </a>
+    <a href="https://twitter.com/guennouni_najim">
+        <img src="https://img.icons8.com/fluent/96/000000/twitter.png"/>
+    </a>
+    <a href="https://www.instagram.com/najim_el_guennouni/">
+        <img src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/>
+    </a>
 </p>
