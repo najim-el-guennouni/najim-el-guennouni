@@ -19,10 +19,12 @@ Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Workin
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-      <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
-                    <a href="https://symfony.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/symfony.png"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a> 
+    <a href="https://symfony.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/symfony.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
+
 
 
 
@@ -52,7 +54,7 @@ Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Workin
 
 <a href = "https://www.linkedin.com/in/najim-el-guennouni-437183177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/guennouni_najim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/najim_el_guennounii/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/najim_el_guennouni/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
