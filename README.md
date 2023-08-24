@@ -28,7 +28,7 @@ Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Workin
 </p>
 <br/>
 
-##  📍 Subham Raoniar streak :
+##  📍 GitHub  Streak :
 
 <p align="center">
     <a href="https://github.com/najim-el-guennouni/github-readme-streak-stats">
