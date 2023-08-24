@@ -43,6 +43,11 @@ Hi There, I’m Najim And I Am full stack developer Web Developer.  I’m Workin
 
 <br/>
 
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
 
 <br/>
