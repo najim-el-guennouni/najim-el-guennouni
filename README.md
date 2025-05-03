@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Najim 👋</h1>
 <h3 align="center">Full Stack Web Developer | PHP</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+Code;PHP+%7C+Symfony+%7C+Laravel;Let's+build+great+software+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -43,12 +39,3 @@ Currently working as a **Full-Stack Developer** at **Peasy**.
   <img src="https://komarev.com/ghpvc/?username=najim-el-guennouni&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-## 🌐 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/najim-el-guennouni-437183177/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/guennouni_najim"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/najim_el_guennouni/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
