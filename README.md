@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Najim El Guennouni
 **Full Stack Developer**
 
----
 
 ## 🔹 About Me
 I'm a passionate full stack developer building modern, scalable web applications. I specialize in backend frameworks like Symfony, Laravel, and Spring Boot, and creating dynamic frontends with Angular.  
@@ -12,8 +11,6 @@ I'm a passionate full stack developer building modern, scalable web applications
   - **Tools & DevOps:** Git, Docker, Postman, Jenkins  
 - 📫 Reach me at: [najimelguennouni@gmail.com](mailto:najimelguennouni@gmail.com)  
 
----
-
 
 ## 🔹 Skills
 - **Backend:** Symfony, Laravel, Spring Boot, REST APIs, JWT  
@@ -21,12 +18,12 @@ I'm a passionate full stack developer building modern, scalable web applications
 - **Database:** MySQL, PostgreSQL, MongoDB  
 - **Dev Tools:** Git, Docker, Postman, CI/CD  
 
----
+
 
 ## 🔹 GitHub Stats
 ![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=radical)
 
----
+
 
 ## 🔹 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Najim-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/najim-el-guennouni-437183177/)  
