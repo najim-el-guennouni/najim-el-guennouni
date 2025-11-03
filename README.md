@@ -24,7 +24,7 @@ I'm a passionate full stack developer building modern, scalable web applications
 ---
 
 ## 🔹 GitHub Stats
-![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najimelguennouni&show_icons=true&theme=radical)
+![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=radical)
 
 ---
 
