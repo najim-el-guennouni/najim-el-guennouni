@@ -1,7 +1,6 @@
 # Najim El Guennouni  
 Full Stack Developer | Web Application Engineer
 
-
 ## About Me
 I am a Full Stack Developer focused on building modern, scalable, and maintainable web applications.  
 My work bridges backend efficiency with frontend usability, always following clean architecture and best development practices.  
@@ -11,7 +10,6 @@ Currently exploring advanced **Angular**, **microservices**, and **cloud archite
 
 **Contact:** [najimelguennouni@gmail.com](mailto:najimelguennouni@gmail.com)
 
----
 
 ## Tech Stack
 
@@ -29,7 +27,6 @@ MySQL, PostgreSQL, MongoDB
 Git, Docker, Jenkins, Postman, CI/CD  
 VS Code, PhpStorm, IntelliJ IDEA
 
----
 
 ## Core Skills
 - Full Stack Web Development (Angular + Laravel/Symfony/Spring Boot)  
@@ -39,7 +36,7 @@ VS Code, PhpStorm, IntelliJ IDEA
 - CI/CD Pipelines and Containerization  
 - Agile Development and Team Collaboration  
 
----
+
 
 ## GitHub Stats
 ![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=default)  
@@ -51,7 +48,7 @@ VS Code, PhpStorm, IntelliJ IDEA
 - MySQL, PostgreSQL, MongoDB
 
 
----
+
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/najim-el-guennouni-437183177/)  
