@@ -44,7 +44,7 @@ VS Code, PhpStorm, IntelliJ IDEA
 
 ## GitHub Stats
 ![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&hide_border=true)
 
 ---
 
