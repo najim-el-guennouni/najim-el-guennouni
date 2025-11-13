@@ -1,62 +1,57 @@
-# 👋 Hi there, I'm **Najim El Guennouni**  
-### 🚀 Full Stack Developer | Web Application Engineer  
+# Najim El Guennouni  
+**Full Stack Developer | Web Application Engineer**
 
 ---
 
-## 🧩 About Me  
-I'm a dedicated **Full Stack Developer** passionate about building **modern, scalable, and high-performance web applications**.  
-I specialize in creating seamless integrations between frontend and backend systems while following clean architecture and best coding practices.  
+## About Me
+I am a Full Stack Developer focused on building modern, scalable, and maintainable web applications.  
+My work bridges backend efficiency with frontend usability, always following clean architecture and best development practices.  
 
-💡 **What I Do**  
-- Develop robust backend systems using **Symfony**, **Laravel**, and **Spring Boot**  
-- Build dynamic and responsive frontends with **Angular**  
-- Design and consume RESTful APIs for efficient data exchange  
-- Implement CI/CD pipelines and containerized deployments with **Docker**  
+I specialize in backend frameworks like **Symfony**, **Laravel**, and **Spring Boot**, and in creating dynamic frontends using **Angular**.  
+Currently exploring advanced **Angular**, **microservices**, and **cloud architectures**.
 
-📍 Always learning, always improving — currently exploring **advanced Angular**, **microservices**, and **cloud-based architectures**.  
-
-📫 **Reach me:** [najimelguennouni@gmail.com](mailto:najimelguennouni@gmail.com)
+**Contact:** [najimelguennouni@gmail.com](mailto:najimelguennouni@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Frontend
-- Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS
+### Frontend
+Angular, TypeScript, JavaScript, HTML5, CSS3, SCSS
 
-### ⚙️ Backend
-- PHP, Symfony, Laravel, Java, Spring Boot  
+### Backend
+PHP, Symfony, Laravel, Java, Spring Boot  
+RESTful APIs, JWT / OAuth2 Authentication, Microservices
 
-### 🗄️ Databases
-- MySQL, PostgreSQL
+### Databases
+MySQL, PostgreSQL, MongoDB
 
-### 🧰 Tools & DevOps
-- Git & GitHub, Docker, Postman, CI/CD  
-- VS Code, PhpStorm, IntelliJ IDEA
+### Tools & DevOps
+Git, Docker, Jenkins, Postman, CI/CD  
+VS Code, PhpStorm, IntelliJ IDEA
 
 ---
 
-## 🚀 Skills Snapshot
+## Core Skills
 - Full Stack Web Development (Angular + Laravel/Symfony/Spring Boot)  
 - REST API Design & Integration  
 - Clean Architecture & SOLID Principles  
-- CI/CD & Containerization  
-- Agile Development & Team Collaboration  
+- Unit and Integration Testing  
+- CI/CD Pipelines and Containerization  
+- Agile Development and Team Collaboration  
 
 ---
 
-## 📊 GitHub Stats  
-
-![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Najim%20El%20Guennouni-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/najim-el-guennouni-437183177/)  
-[![Gmail](https://img.shields.io/badge/Email-najimelguennouni@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:najimelguennouni@gmail.com)
+## GitHub Stats
+![Najim's GitHub stats](https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=default)
 
 ---
 
-⭐️ From [Najim El Guennouni](https://github.com/najim-el-guennouni)
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/najim-el-guennouni-437183177/)  
+[Email](mailto:najimelguennouni@gmail.com)
+
+---
+
+© 2025 Najim El Guennouni
