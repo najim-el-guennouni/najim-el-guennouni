@@ -38,27 +38,12 @@ VS Code, PhpStorm, IntelliJ IDEA
 
 
 
-<table>
-  <tr>
-    
-   <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
         <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
         <img alt="Najim GitHub Stats" src="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%">
       </picture>
-    </td>
-
-   <!-- Top Languages با donut-vertical -->
-   <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=najim-el-guennouni&layout=donut-vertical&theme=dark&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs?username=najim-el-guennouni&layout=donut-vertical&theme=light&hide_border=true">
-        <img alt="Najim Top Languages" src="https://beautiful-github-homepage.vercel.app/api/top-langs?username=najim-el-guennouni&layout=donut-vertical&theme=light&hide_border=true" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+  
 
 
 ## Connect with Me
