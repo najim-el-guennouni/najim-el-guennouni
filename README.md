@@ -38,24 +38,6 @@ VS Code, PhpStorm, IntelliJ IDEA
 
 
 
-<table>
-  <tr>
-
-   <!-- Top Languages با donut-vertical -->
-   <td align="center">
-
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=dark&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-        <img alt="Najim GitHub Stats" src="https://beautiful-github-homepage.vercel.app/api?username=najim-el-guennouni&theme=light&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%">
-      </picture>
-  
-    </td>
-  </tr>
-</table>
-
-
-
 
 
 ## Connect with Me
