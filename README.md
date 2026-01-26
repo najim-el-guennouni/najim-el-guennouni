@@ -43,7 +43,3 @@ VS Code, PhpStorm, IntelliJ IDEA
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/najim-el-guennouni-437183177/)  
 [Email](mailto:najimelguennouni@gmail.com)
-
----
-
-© 2025 Najim El Guennouni
