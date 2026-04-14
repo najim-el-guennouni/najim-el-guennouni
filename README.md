@@ -45,7 +45,7 @@ I build modern, scalable, and maintainable web applications by combining strong 
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
