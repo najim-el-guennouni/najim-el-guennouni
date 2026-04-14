@@ -23,7 +23,7 @@ I build modern, scalable, and maintainable web applications by combining strong 
 `PHP` `Symfony` `Laravel` `Java` `Spring Boot`
 
 ### API & Architecture
-`RESTful APIs` `JWT` `OAuth2` `Microservices` `Clean Architecture` `SOLID`
+`RESTful APIs` `JWT` `Microservices` `Clean Architecture` `SOLID`
 
 ### Databases
 `MySQL` `PostgreSQL` `MongoDB`
@@ -45,8 +45,8 @@ I build modern, scalable, and maintainable web applications by combining strong 
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=najim-el-guennouni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=najim-el-guennouni&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ I build modern, scalable, and maintainable web applications by combining strong 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=najim-el-guennouni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najim-el-guennouni&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ## Connect With Me
