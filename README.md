@@ -48,7 +48,8 @@ I build modern, scalable, and maintainable web applications by combining strong 
   <img src="https://streak-stats.demolab.com?user=najim-el-guennouni&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-
+[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a0ff409c-bb5d-40f6-8e8e-ad4d0ac3bbee)
+EOF
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/najim-el-guennouni-437183177/)
 - [Stack Overflow](https://stackoverflow.com/users/15214294/najim-el-guennouni)
