@@ -2,7 +2,6 @@
 ### Full Stack Developer | Angular & React Engineer
 
 I build modern, scalable, and maintainable web applications by combining strong backend architecture with intuitive frontend experiences.
-[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a0ff409c-bb5d-40f6-8e8e-ad4d0ac3bbee)
 
 ## About Me
 - Full Stack Developer with a focus on clean architecture, scalability, and long-term maintainability
@@ -18,6 +17,8 @@ I build modern, scalable, and maintainable web applications by combining strong 
 
 ## Tech Stack
 ### Frontend
+[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a0ff409c-bb5d-40f6-8e8e-ad4d0ac3bbee)
+
 `Angular` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
 
 ### Backend
