@@ -1,12 +1,12 @@
 # Najim El Guennouni
-### Full Stack Developer | Angular & React Engineer
+### Full Stack Developer
 
 I build modern, scalable, and maintainable web applications by combining strong backend architecture with intuitive frontend experiences.
 
 ## About Me
 - Full Stack Developer with a focus on clean architecture, scalability, and long-term maintainability
 - Strong backend experience with **Symfony**, **Laravel**, and **Spring Boot**
-- Frontend development with **Angular**, **React**, and modern TypeScript-based workflows
+- Frontend development with **Angular**, and modern TypeScript-based workflows
 - Passionate about writing clean, testable code and delivering real business value
 
 ## Current Focus
@@ -19,7 +19,7 @@ I build modern, scalable, and maintainable web applications by combining strong 
 ### Frontend
 [![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a0ff409c-bb5d-40f6-8e8e-ad4d0ac3bbee)
 
-`Angular` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
+`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` `SCSS`
 
 ### Backend
 `PHP` `Symfony` `Laravel` `Java` `Spring Boot`
@@ -34,7 +34,7 @@ I build modern, scalable, and maintainable web applications by combining strong 
 `Git` `Docker` `Postman` `CI/CD` `VS Code` `PhpStorm` `IntelliJ IDEA`
 
 ## Core Skills
-- Full Stack development across Angular/React and backend frameworks
+- Full Stack development across Angular and backend frameworks
 - API design, integration, and authentication flows
 - Unit and integration testing
 - CI/CD pipelines and containerized environments
